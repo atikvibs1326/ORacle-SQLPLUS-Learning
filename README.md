@@ -96,9 +96,33 @@ ON search_condition
 	-REVOKE
 		this is used to revoke means remove some access privileges to the databse
 		
-		
+<h2>Key Constraint in SQL</h2>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -Foreign Key
+	Foreign key is used to refer the primary key of another table or the same table to access it in the other table or the same table.
+	it has referential integrity that may cause some violation while performing insertion,updation and deletion operations on the tables
+	below are given two mimages that specify how referential integrity is maintained by the Sql by using the foreign key constraint.
+	
+
+-Referntial integrity on the refrenced table that is performed on the base table which has the primary key
 ![image](https://user-images.githubusercontent.com/64660852/229362071-7598cc27-7712-4311-9b7a-eae10ffba764.png)
+
+-Referential integrity on the referncing table that is performed on the child table which is having the foreign key
+![image](https://user-images.githubusercontent.com/64660852/229362445-4880b95a-9f2b-437f-8554-6ce196cffb5a.png)
+
+Syntax 
+	column_name  datatype REFERENCES table_name(the acutual coloumn name) 
+	-----------
+	the underlined column name can be anything,but it is better to give the same name which is present in the primary key column from the base table
+	
+	Below image contains the example of Foreign key
+	
+	![image](https://user-images.githubusercontent.com/64660852/229362820-8314951c-6dba-4a3a-a403-5cbd73069c89.png)
+
+	![image](https://user-images.githubusercontent.com/64660852/229362851-b554655e-ac82-4163-bfd4-316ed01aec6c.png)
+
+	![image](https://user-images.githubusercontent.com/64660852/229362865-9627a63c-f11b-499d-b0c9-ae569e59e9c1.png)
+
 
 
 
