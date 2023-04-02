@@ -104,18 +104,21 @@ ON search_condition
 	below are given two mimages that specify how referential integrity is maintained by the Sql by using the foreign key constraint.
 	
 
--Referntial integrity on the refrenced table that is performed on the base table which has the primary key
+
+
+	-Referntial integrity on the refrenced table that is performed on the base table which has the primary key
+
 ![image](https://user-images.githubusercontent.com/64660852/229362071-7598cc27-7712-4311-9b7a-eae10ffba764.png)
 
--Referential integrity on the referncing table that is performed on the child table which is having the foreign key
+	-Referential integrity on the referncing table that is performed on the child table which is having the foreign key
 ![image](https://user-images.githubusercontent.com/64660852/229362445-4880b95a-9f2b-437f-8554-6ce196cffb5a.png)
 
-Syntax 
-	column_name  datatype REFERENCES table_name(the acutual coloumn name) 
+	Syntax 
+		column_name  datatype REFERENCES table_name(the acutual coloumn name) 
 	-----------
 	the underlined column name can be anything,but it is better to give the same name which is present in the primary key column from the base table
 	
-	Below image contains the example of Foreign key
+   Below image contains the example of Foreign key
 	
 ![image](https://user-images.githubusercontent.com/64660852/229362820-8314951c-6dba-4a3a-a403-5cbd73069c89.png)
 
