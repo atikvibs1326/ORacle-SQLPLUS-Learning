@@ -95,5 +95,10 @@ ON search_condition
 	
 	-REVOKE
 		this is used to revoke means remove some access privileges to the databse
+		
+		
+-Foreign Key
+![image](https://user-images.githubusercontent.com/64660852/229362071-7598cc27-7712-4311-9b7a-eae10ffba764.png)
+
 
 
