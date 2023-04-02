@@ -117,11 +117,11 @@ Syntax
 	
 	Below image contains the example of Foreign key
 	
-	![image](https://user-images.githubusercontent.com/64660852/229362820-8314951c-6dba-4a3a-a403-5cbd73069c89.png)
+![image](https://user-images.githubusercontent.com/64660852/229362820-8314951c-6dba-4a3a-a403-5cbd73069c89.png)
 
-	![image](https://user-images.githubusercontent.com/64660852/229362851-b554655e-ac82-4163-bfd4-316ed01aec6c.png)
+![image](https://user-images.githubusercontent.com/64660852/229362851-b554655e-ac82-4163-bfd4-316ed01aec6c.png)
 
-	![image](https://user-images.githubusercontent.com/64660852/229362865-9627a63c-f11b-499d-b0c9-ae569e59e9c1.png)
+![image](https://user-images.githubusercontent.com/64660852/229362865-9627a63c-f11b-499d-b0c9-ae569e59e9c1.png)
 
 
 
