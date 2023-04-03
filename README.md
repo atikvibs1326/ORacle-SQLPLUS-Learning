@@ -97,7 +97,7 @@ ON search_condition
 		this is used to revoke means remove some access privileges to the databse
 		
 <h2>Key Constraint in SQL</h2>
----------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 -Foreign Key
 	Foreign key is used to refer the primary key of another table or the same table to access it in the other table or the same table.
 	it has referential integrity that may cause some violation while performing insertion,updation and deletion operations on the tables
