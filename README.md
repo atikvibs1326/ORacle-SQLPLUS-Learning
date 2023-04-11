@@ -26,10 +26,7 @@ Datatypes in SQl:
 Sql provides datatypes that that specify whattype of data can be stored in the particular column
 -INT -Stores a number
  Number-Stores a number
- 
- 
- 
- ntroduction to the Oracle subquery
+ Introduction to the Oracle subquery
 A subquery is a SELECT statement nested inside another statement such as SELECT, INSERT, UPDATE, or DELETE. Typically, you can use a subquery anywhere that you use an expression.
 
 Consider this following subquery example that uses the products table from the sample database.
